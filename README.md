@@ -84,12 +84,17 @@
 </p>
 </details>
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+<details>
+<summary>
+  <g-emoji class="g-emoji" alias="trophy" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png">🏆</g-emoji>
+  <strong>Github Profile Trophy</strong>
+</summary>
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=amtir&column=7"/>
-  </a>
-</div>
+</a>
+</details>
+
 
 <br/>
 
