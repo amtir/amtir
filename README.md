@@ -10,6 +10,8 @@
         <img src="./pictures/epfl-logo.svg" alt="bootstrap" width="40" height="15" /> </a>
 
 📚 **Certifications**:
+ - [Applied Business Intelligence (2025)](./pictures/Edureka/BI_PWC_Certificate_2025.pdf)<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power-BI" width="20" height="20" /></a>
+ 
  - [Data Science and Machine Learning Training (2024 - 2025)](./pictures/Edureka/Data-Science_Certificate_1.pdf)<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/numpy.svg" alt="numpy" width="20" height="20" /></a>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="20" height="20" /></a>
     <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="20" height="20" /></a>
