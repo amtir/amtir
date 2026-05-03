@@ -53,13 +53,7 @@
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" alt="seaborn" width="30" height="30" /></a>
     <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" alt="jupyter" width="30" height="30" /></a>
 
-- Operating Systems: <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" /></a>
-<a href="https://www.redhat.com/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/redhat-icon.svg" alt="redhat" width="30" height="30" /></a>
-<a href="https://www.debian.org/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/debian.svg" alt="debian" width="30" height="30" /></a>
-<a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="30" height="30" /></a>
-<a href="https://www.vmware.com/" target="_blank" rel="noreferrer"><img src="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/blob/master/Papirus/64x64/apps/vmware-workstation.svg" alt="vmware" width="30" height="30" /></a>
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="windows" width="30" height="30" /></a>
+- Operating Systems: <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30"/></a> <a href="https://www.redhat.com/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/redhat-icon.svg" width="30"/></a> <a href="https://www.debian.org/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/debian.svg" width="30"/></a> <a href="https://www.virtualbox.org/"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" width="30"/></a> <a href="https://www.vmware.com/"><img src="https://cdn.jsdelivr.net/gh/PapirusDevelopmentTeam/papirus-icon-theme@master/Papirus/64x64/apps/vmware-workstation.svg" width="30"/></a> <a href="https://www.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="30"/></a>
 
 - Cloud Services: <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30" /></a>
 
